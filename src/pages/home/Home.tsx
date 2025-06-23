@@ -18,8 +18,7 @@ const Home = () => {
                   alt="Imagem da página Home" 
                   className="w-2/3"
                 />
-            </div>
-           
+            </div>  
         </div>
     </div>
   )
